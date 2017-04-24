@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "RenIndex",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "4369e4e1-d274-4fa9-a3e8-2d5a367feb88"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "b32c282d-ff68-4dd2-9c0c-3952e0468faa"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "4369e4e1-d274-4fa9-a3e8-2d5a367feb88"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "4369e4e1-d274-4fa9-a3e8-2d5a367feb88"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

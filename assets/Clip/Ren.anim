@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Ren",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.1,
+  "sample": 10,
+  "speed": 6,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7864ce83-2221-4b56-956c-ca6d1aae471f"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "4369e4e1-d274-4fa9-a3e8-2d5a367feb88"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            623,
+            -198
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            241,
+            -185
+          ]
+        }
+      ],
+      "opacity": []
+    }
+  },
+  "events": []
+}
